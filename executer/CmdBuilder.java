@@ -22,7 +22,7 @@ public class CmdBuilder
 
     public CmdBuilder()
     {
-
+        
     }
 
     public CmdBuilder setProg(String prog)

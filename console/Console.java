@@ -74,6 +74,6 @@ public class Console
     {
         System.out.println("Enter an interface to use:");
         printIfaces(true);
-        
+        String iface = utils.UserInput.getInput();
     }
 }
